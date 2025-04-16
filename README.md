@@ -55,6 +55,19 @@ I'm a professional web developer passionate about crafting exceptional digital e
   <table>
     <tr>
       <td width="50%" align="center">
+        <h3>Vistara</h3>
+        <a href="https://vistara-cosmic.vercel.app/">
+          <img src="https://github.com/harshavardhan-md/assets_for_all_repos/blob/main/Vistara/Home.png" width="100%" alt="Vistara"/>
+        </a>
+        <p>Discover India's soul through cultural tourism</p>
+        <a href="https://vistara-cosmic.vercel.app/">
+          <img src="https://img.shields.io/badge/Live_Demo-37a779?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+        </a>
+        <a href="https://github.com/yourusername/vistara">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </td>
+      <td width="50%" align="center">
         <h3>Shiksha Sankalp</h3>
         <a href="https://shikshasankalp.vercel.app/">
           <img src="https://i.imgur.com/QDvz4tL.png" width="100%" alt="Shiksha Sankalp"/>
@@ -64,19 +77,6 @@ I'm a professional web developer passionate about crafting exceptional digital e
           <img src="https://img.shields.io/badge/Live_Demo-37a779?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
         </a>
         <a href="https://github.com/Kishore-SR/Shiksha-Sankalp">
-          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <h3>Vistara</h3>
-        <a href="https://vistara-cosmic.vercel.app/">
-          <img src="https://i.imgur.com/vZ4kvnZ.png" width="100%" alt="Vistara"/>
-        </a>
-        <p>Discover India's soul through cultural tourism</p>
-        <a href="https://vistara-cosmic.vercel.app/">
-          <img src="https://img.shields.io/badge/Live_Demo-37a779?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-        </a>
-        <a href="https://github.com/yourusername/vistara">
           <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
       </td>
@@ -174,13 +174,21 @@ I'm a professional web developer passionate about crafting exceptional digital e
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshavardhan-md&theme=radical&hide_border=true" width="49%" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=harshavardhan-md&show_icons=true&theme=radical&hide_border=true" width="49%" alt="GitHub Stats"/>
+  <a href="https://github.com/harshavardhan-md">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshavardhan-md&theme=radical&hide_border=true" width="48%" alt="GitHub Streak"/>
+  </a>
+  <a href="https://github.com/harshavardhan-md">
+    <img src="https://github-readme-stats.vercel.app/api?username=harshavardhan-md&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhan-md&layout=compact&theme=radical&hide_border=true" width="49%" alt="Top Languages"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=harshavardhan-md&theme=radical&row=1&column=3&margin-w=15&margin-h=15" width="49%" alt="GitHub Trophies"/>
+  <a href="https://github.com/harshavardhan-md">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhan-md&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages"/>
+  </a>
+  <a href="https://github.com/harshavardhan-md">
+    <img src="https://github-profile-trophy.vercel.app/?username=harshavardhan-md&theme=radical&row=1&column=3&margin-w=15&margin-h=15" width="48%" alt="GitHub Trophies"/>
+  </a>
 </div>
 
 ---
